@@ -1,6 +1,7 @@
-PLEASE GO TO THE UPDATED REPOSITORY TO VIEW CODE: https://github.com/FreyasCode/Physio-Timer
-
 # PhysioTimer
+
+# PLEASE GO TO THE UPDATED REPOSITORY TO VIEW CODE: https://github.com/FreyasCode/Physio-Timer
+
 Welcom to PhysioTimer -- an interval timer application to help you do your physiotherapy exercises hands-free. The app also provides auditory assistance to make the process even simpler so you can focus on your movements. 
 
 <img src="https://user-images.githubusercontent.com/90144872/149872430-c2645820-1f8c-485e-8cde-06711352222d.jpg" width="300">
